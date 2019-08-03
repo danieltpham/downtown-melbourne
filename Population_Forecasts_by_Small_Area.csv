@@ -1,0 +1,274 @@
+Geography,Year,Population
+Melbourne (CBD),2017,42589
+Melbourne (CBD),2018,44087
+Melbourne (CBD),2019,46442
+Melbourne (CBD),2020,51136
+Melbourne (CBD),2021,53795
+Melbourne (CBD),2022,55854
+Melbourne (CBD),2023,58336
+Melbourne (CBD),2024,61086
+Melbourne (CBD),2025,63802
+Melbourne (CBD),2026,65529
+Melbourne (CBD),2027,67302
+Melbourne (CBD),2028,68691
+Melbourne (CBD),2029,69607
+Melbourne (CBD),2030,70609
+Melbourne (CBD),2031,71573
+Melbourne (CBD),2032,72479
+Melbourne (CBD),2033,73438
+Melbourne (CBD),2034,74334
+Melbourne (CBD),2035,75242
+Melbourne (CBD),2036,76142
+Melbourne (CBD),2037,76982
+Carlton,2017,20776
+Carlton,2018,21214
+Carlton,2019,21961
+Carlton,2020,22680
+Carlton,2021,23392
+Carlton,2022,23580
+Carlton,2023,23769
+Carlton,2024,23920
+Carlton,2025,24061
+Carlton,2026,24148
+Carlton,2027,24261
+Carlton,2028,24341
+Carlton,2029,24338
+Carlton,2030,24371
+Carlton,2031,24385
+Carlton,2032,24439
+Carlton,2033,24494
+Carlton,2034,24524
+Carlton,2035,24547
+Carlton,2036,24559
+Carlton,2037,24548
+Docklands,2017,12458
+Docklands,2018,13113
+Docklands,2019,14282
+Docklands,2020,15893
+Docklands,2021,16916
+Docklands,2022,17909
+Docklands,2023,18801
+Docklands,2024,19754
+Docklands,2025,20349
+Docklands,2026,20817
+Docklands,2027,21294
+Docklands,2028,21764
+Docklands,2029,22178
+Docklands,2030,22557
+Docklands,2031,22874
+Docklands,2032,23194
+Docklands,2033,23515
+Docklands,2034,23819
+Docklands,2035,24116
+Docklands,2036,24406
+Docklands,2037,24694
+East Melbourne,2017,5490
+East Melbourne,2018,5550
+East Melbourne,2019,5598
+East Melbourne,2020,5752
+East Melbourne,2021,5872
+East Melbourne,2022,5948
+East Melbourne,2023,6010
+East Melbourne,2024,6062
+East Melbourne,2025,6100
+East Melbourne,2026,6155
+East Melbourne,2027,6209
+East Melbourne,2028,6252
+East Melbourne,2029,6287
+East Melbourne,2030,6307
+East Melbourne,2031,6354
+East Melbourne,2032,6398
+East Melbourne,2033,6463
+East Melbourne,2034,6541
+East Melbourne,2035,6629
+East Melbourne,2036,6651
+East Melbourne,2037,6677
+Kensington,2017,11657
+Kensington,2018,11865
+Kensington,2019,12192
+Kensington,2020,12492
+Kensington,2021,12948
+Kensington,2022,13377
+Kensington,2023,13792
+Kensington,2024,14198
+Kensington,2025,14594
+Kensington,2026,14855
+Kensington,2027,15123
+Kensington,2028,15397
+Kensington,2029,15689
+Kensington,2030,15975
+Kensington,2031,16264
+Kensington,2032,16564
+Kensington,2033,16869
+Kensington,2034,17178
+Kensington,2035,17491
+Kensington,2036,17810
+Kensington,2037,17848
+Melbourne (Remainder),2017,1989
+Melbourne (Remainder),2018,2094
+Melbourne (Remainder),2019,2299
+Melbourne (Remainder),2020,2592
+Melbourne (Remainder),2021,2688
+Melbourne (Remainder),2022,2733
+Melbourne (Remainder),2023,2773
+Melbourne (Remainder),2024,2810
+Melbourne (Remainder),2025,2845
+Melbourne (Remainder),2026,2875
+Melbourne (Remainder),2027,2903
+Melbourne (Remainder),2028,2926
+Melbourne (Remainder),2029,2946
+Melbourne (Remainder),2030,2971
+Melbourne (Remainder),2031,2994
+Melbourne (Remainder),2032,3014
+Melbourne (Remainder),2033,3036
+Melbourne (Remainder),2034,3056
+Melbourne (Remainder),2035,3076
+Melbourne (Remainder),2036,3096
+Melbourne (Remainder),2037,3113
+North Melbourne,2017,16985
+North Melbourne,2018,17310
+North Melbourne,2019,18761
+North Melbourne,2020,20126
+North Melbourne,2021,21327
+North Melbourne,2022,22060
+North Melbourne,2023,22803
+North Melbourne,2024,23355
+North Melbourne,2025,23865
+North Melbourne,2026,24290
+North Melbourne,2027,24710
+North Melbourne,2028,25117
+North Melbourne,2029,25428
+North Melbourne,2030,25735
+North Melbourne,2031,25998
+North Melbourne,2032,26257
+North Melbourne,2033,26526
+North Melbourne,2034,26779
+North Melbourne,2035,27033
+North Melbourne,2036,27282
+North Melbourne,2037,27290
+Parkville,2017,7929
+Parkville,2018,7982
+Parkville,2019,8105
+Parkville,2020,8349
+Parkville,2021,8500
+Parkville,2022,8538
+Parkville,2023,8658
+Parkville,2024,8729
+Parkville,2025,8844
+Parkville,2026,9006
+Parkville,2027,9091
+Parkville,2028,9248
+Parkville,2029,9273
+Parkville,2030,9316
+Parkville,2031,9346
+Parkville,2032,9398
+Parkville,2033,9461
+Parkville,2034,9485
+Parkville,2035,9518
+Parkville,2036,9563
+Parkville,2037,9581
+Port Melbourne,2017,10
+Port Melbourne,2018,10
+Port Melbourne,2019,10
+Port Melbourne,2020,10
+Port Melbourne,2021,11
+Port Melbourne,2022,11
+Port Melbourne,2023,321
+Port Melbourne,2024,670
+Port Melbourne,2025,1062
+Port Melbourne,2026,1494
+Port Melbourne,2027,1972
+Port Melbourne,2028,2254
+Port Melbourne,2029,2800
+Port Melbourne,2030,2905
+Port Melbourne,2031,3488
+Port Melbourne,2032,4009
+Port Melbourne,2033,4684
+Port Melbourne,2034,5450
+Port Melbourne,2035,6267
+Port Melbourne,2036,7110
+Port Melbourne,2037,7945
+Southbank,2017,21065
+Southbank,2018,21894
+Southbank,2019,22569
+Southbank,2020,23359
+Southbank,2021,24262
+Southbank,2022,25905
+Southbank,2023,27749
+Southbank,2024,29747
+Southbank,2025,31681
+Southbank,2026,33209
+Southbank,2027,34721
+Southbank,2028,36123
+Southbank,2029,37422
+Southbank,2030,38764
+Southbank,2031,40122
+Southbank,2032,41489
+Southbank,2033,42876
+Southbank,2034,44277
+Southbank,2035,45708
+Southbank,2036,47159
+Southbank,2037,48610
+South Yarra,2017,4654
+South Yarra,2018,4699
+South Yarra,2019,4705
+South Yarra,2020,4719
+South Yarra,2021,4727
+South Yarra,2022,4732
+South Yarra,2023,4739
+South Yarra,2024,4753
+South Yarra,2025,4774
+South Yarra,2026,4790
+South Yarra,2027,4804
+South Yarra,2028,4816
+South Yarra,2029,4827
+South Yarra,2030,4840
+South Yarra,2031,4851
+South Yarra,2032,4859
+South Yarra,2033,4864
+South Yarra,2034,4867
+South Yarra,2035,4866
+South Yarra,2036,4861
+South Yarra,2037,4854
+West Melbourne (Industrial),2017,10
+West Melbourne (Industrial),2018,10
+West Melbourne (Industrial),2019,10
+West Melbourne (Industrial),2020,10
+West Melbourne (Industrial),2021,111
+West Melbourne (Industrial),2022,227
+West Melbourne (Industrial),2023,360
+West Melbourne (Industrial),2024,509
+West Melbourne (Industrial),2025,675
+West Melbourne (Industrial),2026,859
+West Melbourne (Industrial),2027,1061
+West Melbourne (Industrial),2028,1102
+West Melbourne (Industrial),2029,1256
+West Melbourne (Industrial),2030,1605
+West Melbourne (Industrial),2031,2200
+West Melbourne (Industrial),2032,2998
+West Melbourne (Industrial),2033,3950
+West Melbourne (Industrial),2034,5002
+West Melbourne (Industrial),2035,5381
+West Melbourne (Industrial),2036,5776
+West Melbourne (Industrial),2037,6189
+West Melbourne (Residential),2017,5564
+West Melbourne (Residential),2018,5699
+West Melbourne (Residential),2019,5734
+West Melbourne (Residential),2020,5739
+West Melbourne (Residential),2021,5827
+West Melbourne (Residential),2022,5908
+West Melbourne (Residential),2023,6023
+West Melbourne (Residential),2024,6189
+West Melbourne (Residential),2025,6371
+West Melbourne (Residential),2026,6455
+West Melbourne (Residential),2027,6507
+West Melbourne (Residential),2028,6573
+West Melbourne (Residential),2029,6588
+West Melbourne (Residential),2030,6596
+West Melbourne (Residential),2031,6838
+West Melbourne (Residential),2032,7082
+West Melbourne (Residential),2033,7342
+West Melbourne (Residential),2034,7594
+West Melbourne (Residential),2035,7852
+West Melbourne (Residential),2036,8114
+West Melbourne (Residential),2037,8124
