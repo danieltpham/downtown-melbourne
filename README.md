@@ -3,76 +3,19 @@ This project is submitted for assignment for the [Elements of Data Processing (C
 
 #### -- Project Status: Completed October 2018
 
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+## Project Intro
+Although Melbourne CBD is the robust trading centre of Victoria, it lacks a definitive area of industrial specialisation. A prime example is Wall Street in New York, which specialises in financial services business, or Madison Avenue which specialises in advertising industry. The specialisation in specific industry has brought positive investments and developments to other cities in the world.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+The investigation question is: **Is Melbourne CBD predisposed (have the capability) to form industrial specialisation areas?**
 
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
-
-### Technologies
-* R 
+### Methodologies
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Machine Learning (scikit-learn)
+* Data Visualization (sns)
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+## Dataset Description
+The datasets used are collected from the *Census of Land Use and Employment (CLUE)* reports from the City of Melbourne. Specifically, the predisposition is operationalised as both the number of businesses based on industry, the number of employees based on industry, the area blocks divided according to CLUE, and the population per area blocks. The timeframe of interest is 2017, but forecast into 2020 are also going to be predicted.
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+## Conclusions
+Analysis on the current Employment & Population datasets of City of Melbourne reveals that there is little evidence for a predisposition for industrial specialisation in Melbourne CBD. Most employments and industries are highly concentrated in the CBD area, turning the most important area of the dataset to an outlier which challenges the interpretation. However, the analysis reveals a potential for Dockland to become the next Central Business District of Melbourne; and a strong focus on Business & Professional Services for City of Melbourne.
