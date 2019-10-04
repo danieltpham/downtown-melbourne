@@ -14,6 +14,9 @@ The investigation question is: **Is Melbourne CBD predisposed (have the capabili
 * Machine Learning (scikit-learn)
 * Data Visualization (sns)
 
+### View Project
+[Click here to view project output](https://nbviewer.jupyter.org/github/danieltpham/downtown-melbourne/blob/master/Analysis.ipynb)
+
 ## File Descriptions
 * [Jupyter Notebook - Python code](https://github.com/danieltpham/downtown-melbourne/blob/Update-README/Analysis.ipynb)
 * [Result Presentation Deck](https://github.com/danieltpham/downtown-melbourne/blob/Update-README/Presentation.pdf)
